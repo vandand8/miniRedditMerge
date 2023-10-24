@@ -1,0 +1,4 @@
+C:\Users\Vannu\Desktop\softwarearkitektur\miniRedditMerge\shared\obj\Debug\net7.0\shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vannu\Desktop\softwarearkitektur\miniRedditMerge\shared\obj\Debug\net7.0\shared.AssemblyInfoInputs.cache
+C:\Users\Vannu\Desktop\softwarearkitektur\miniRedditMerge\shared\obj\Debug\net7.0\shared.AssemblyInfo.cs
+C:\Users\Vannu\Desktop\softwarearkitektur\miniRedditMerge\shared\obj\Debug\net7.0\shared.csproj.CoreCompileInputs.cache
